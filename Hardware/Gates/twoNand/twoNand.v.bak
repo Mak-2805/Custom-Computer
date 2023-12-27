@@ -1,0 +1,3 @@
+module twoNand (a,b,out);
+
+endmodule
