@@ -1,0 +1,4 @@
+module twoXor (a,b,out);
+
+
+endmodule
