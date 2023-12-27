@@ -8,7 +8,7 @@ module Not16 (in,out);
 		genvar i;
 		for (i = 0; i < 16; i = i + 1) begin : instance_loop
 			oneNot Not_inst (
-			  .a(in[i]),
+			  .in(in[i]),
 			  .out(out[i])
 			);
 		end
