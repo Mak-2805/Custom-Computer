@@ -1,0 +1,5 @@
+module DMux4Way (in,sel,a,b,c,d);
+
+	
+
+endmodule
